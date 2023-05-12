@@ -1,1 +1,1 @@
-photo,brian.jpg
+photo,brian.png
